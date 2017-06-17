@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\大厅">
+      <UniqueIdentifier>{f6bad03a-4182-49d2-92da-a236ece018b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\大厅\大厅顶部">
+      <UniqueIdentifier>{2387c797-f0ad-45a0-ba9f-ef0f6d8eff11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\功能">
+      <UniqueIdentifier>{16e2f6d6-d952-4ae5-8aa8-ac70f5515d69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\功能\缩放菜单选项精灵">
+      <UniqueIdentifier>{04714c84-fb43-4b55-8381-22df0d329fc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\大厅\大厅中部">
+      <UniqueIdentifier>{1f66aa40-e39c-407b-a203-f8907542cae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\大厅\大厅底部">
+      <UniqueIdentifier>{68bdac00-720f-4d85-ac19-33d39cab0894}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\大厅\设置对话框">
+      <UniqueIdentifier>{17578a6e-58d0-4097-ba02-d53b4bb1a12f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\大厅\规则对话框">
+      <UniqueIdentifier>{0aaf6931-0e3a-4566-aaf3-df3dc4449586}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\大厅\反馈对话框">
+      <UniqueIdentifier>{1fe759cf-ee3f-473a-9e62-125b1582e2a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏">
+      <UniqueIdentifier>{12ee7201-b1b4-45f4-9294-65e96edf1910}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏控制器">
+      <UniqueIdentifier>{a7563c9b-2c3e-486b-8455-b31132cd12c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\状态">
+      <UniqueIdentifier>{9387b05a-8f94-488d-9fdf-fdd2903fe105}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\状态\准备">
+      <UniqueIdentifier>{53afa7b1-907e-46e4-9847-ca2a5881f871}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏场景">
+      <UniqueIdentifier>{a64a8d82-69a4-4ca4-97ff-1980605911b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\玩家">
+      <UniqueIdentifier>{58bb2ee5-93ef-4237-a91a-9577d7b380f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏场景\头像层">
+      <UniqueIdentifier>{f3b43077-04d2-47a9-b3a0-b5bbd5bdd61c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏场景\准备状态层">
+      <UniqueIdentifier>{d2729b7e-9646-4b59-a0cd-40cbfe8342ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\状态\发牌">
+      <UniqueIdentifier>{96f823b5-aa7c-4862-b389-ead49dc75859}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\状态\开始">
+      <UniqueIdentifier>{60606f65-5aea-487f-85fa-011306881407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏场景\扑克层">
+      <UniqueIdentifier>{bd158208-a556-4014-9448-1c069f36360b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\扑克">
+      <UniqueIdentifier>{effe5d2b-ce52-4319-be8b-58ee0abda680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\玩家\电脑玩家">
+      <UniqueIdentifier>{78dbf8c4-cae0-46ee-a322-5234f943a6d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏场景\头像层\玩家头像">
+      <UniqueIdentifier>{d9fb668c-f0fe-4c4d-91d0-8cc3ef70d841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\玩家\手动玩家">
+      <UniqueIdentifier>{06ea7617-f027-4a21-a27c-9b81d80802ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\功能\单例">
+      <UniqueIdentifier>{c3f7dd63-e09c-4573-874c-c1ef2662b63e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\玩家\玩家实例">
+      <UniqueIdentifier>{ee567db4-be0b-4d4d-80a2-9a334a810716}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\扑克\扑克控制器">
+      <UniqueIdentifier>{dead339b-b8ed-45a0-9013-abcba455f89d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\扑克\扑克精灵">
+      <UniqueIdentifier>{353d0155-59e9-431f-afeb-a3fdd005a6f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\状态\叫地主">
+      <UniqueIdentifier>{318580f4-e6ef-4c3d-89a7-f226b5eabc34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏场景\叫地主层">
+      <UniqueIdentifier>{f0b65306-d688-4702-b15f-e03bd659f3cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\状态\出牌">
+      <UniqueIdentifier>{ea81102e-0935-4ffc-8f3f-b8d48e5e71fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\扑克\出牌集合">
+      <UniqueIdentifier>{31579381-db02-4a05-b555-380816b11393}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏规则">
+      <UniqueIdentifier>{d4d9b7e3-44ce-48d3-ae98-16e292f826aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\计时器">
+      <UniqueIdentifier>{9b3c8f83-e320-4b61-90af-109d07b57c00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\计时器\计时控制器">
+      <UniqueIdentifier>{0ccc5217-79c8-46eb-8a2f-cfae6768a0e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\状态\结束">
+      <UniqueIdentifier>{64536c6c-af63-4b53-8491-d3ed30e33e4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\游戏\游戏场景\游戏结束层">
+      <UniqueIdentifier>{89c6931f-7562-41ce-8018-ffb41a392335}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LobbyScene.cpp">
+      <Filter>src\大厅</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LobbySceneTop.cpp">
+      <Filter>src\大厅\大厅顶部</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EncodeUtil.cpp">
+      <Filter>src\功能</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ScalableMenuItemSprite.cpp">
+      <Filter>src\功能\缩放菜单选项精灵</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LobbySceneMiddle.cpp">
+      <Filter>src\大厅\大厅中部</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LobbySceneBottom.cpp">
+      <Filter>src\大厅\大厅底部</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MusicUtil.cpp">
+      <Filter>src\功能</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SetLayer.cpp">
+      <Filter>src\大厅\设置对话框</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RuleLayer.cpp">
+      <Filter>src\大厅\规则对话框</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CustomServiceLayer.cpp">
+      <Filter>src\大厅\反馈对话框</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameController.cpp">
+      <Filter>src\游戏\游戏控制器</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ReadyState.cpp">
+      <Filter>src\游戏\状态\准备</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>src\游戏\游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Player.cpp">
+      <Filter>src\游戏\玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HeadImage.cpp">
+      <Filter>src\游戏\游戏场景\头像层\玩家头像</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HeadImageLayer.cpp">
+      <Filter>src\游戏\游戏场景\头像层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ReadyStateLayer.cpp">
+      <Filter>src\游戏\游戏场景\准备状态层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DealState.cpp">
+      <Filter>src\游戏\状态\发牌</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\StartState.cpp">
+      <Filter>src\游戏\状态\开始</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PokerLayer.cpp">
+      <Filter>src\游戏\游戏场景\扑克层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ComputerPlayer.cpp">
+      <Filter>src\游戏\玩家\电脑玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HolderPlayer.cpp">
+      <Filter>src\游戏\玩家\手动玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PokerController.cpp">
+      <Filter>src\游戏\扑克\扑克控制器</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Poker.cpp">
+      <Filter>src\游戏\扑克</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PokerSprite.cpp">
+      <Filter>src\游戏\扑克\扑克精灵</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PokerUtil.cpp">
+      <Filter>src\功能</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CallLandlordState.cpp">
+      <Filter>src\游戏\状态\叫地主</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CallLandlordLayer.cpp">
+      <Filter>src\游戏\游戏场景\叫地主层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\OutPokerState.cpp">
+      <Filter>src\游戏\状态\出牌</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ComputerPlayerInstanceTwo.cpp">
+      <Filter>src\游戏\玩家\玩家实例</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ComputerPlayerInstanceOne.cpp">
+      <Filter>src\游戏\玩家\玩家实例</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\OutPokers.cpp">
+      <Filter>src\游戏\扑克\出牌集合</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameRule.cpp">
+      <Filter>src\游戏\游戏规则</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CountDown.cpp">
+      <Filter>src\游戏\计时器</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CountDownController.cpp">
+      <Filter>src\游戏\计时器\计时控制器</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\OverState.cpp">
+      <Filter>src\游戏\状态\结束</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\OverLayer.cpp">
+      <Filter>src\游戏\游戏场景\游戏结束层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WindowUtil.cpp">
+      <Filter>src\功能</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LobbyScene.h">
+      <Filter>src\大厅</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LobbySceneTop.h">
+      <Filter>src\大厅\大厅顶部</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EncodeUtil.h">
+      <Filter>src\功能</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MacroUtil.h">
+      <Filter>src\功能</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Util.h">
+      <Filter>src\功能</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ScalableMenuItemSprite.h">
+      <Filter>src\功能\缩放菜单选项精灵</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LobbySceneMiddle.h">
+      <Filter>src\大厅\大厅中部</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LobbySceneBottom.h">
+      <Filter>src\大厅\大厅底部</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MusicUtil.h">
+      <Filter>src\功能</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Common.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SetLayer.h">
+      <Filter>src\大厅\设置对话框</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RuleLayer.h">
+      <Filter>src\大厅\规则对话框</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CustomServiceLayer.h">
+      <Filter>src\大厅\反馈对话框</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameController.h">
+      <Filter>src\游戏\游戏控制器</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\State.h">
+      <Filter>src\游戏\状态</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ReadyState.h">
+      <Filter>src\游戏\状态\准备</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>src\游戏\游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Player.h">
+      <Filter>src\游戏\玩家</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HeadImage.h">
+      <Filter>src\游戏\游戏场景\头像层\玩家头像</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HeadImageLayer.h">
+      <Filter>src\游戏\游戏场景\头像层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ReadyStateLayer.h">
+      <Filter>src\游戏\游戏场景\准备状态层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DealState.h">
+      <Filter>src\游戏\状态\发牌</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\StartState.h">
+      <Filter>src\游戏\状态\开始</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PokerLayer.h">
+      <Filter>src\游戏\游戏场景\扑克层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ComputerPlayer.h">
+      <Filter>src\游戏\玩家\电脑玩家</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HolderPlayer.h">
+      <Filter>src\游戏\玩家\手动玩家</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ComputerPlayerInstanceOne.h">
+      <Filter>src\游戏\玩家\玩家实例</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Singleton.h">
+      <Filter>src\功能\单例</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ComputerPlayerInstanceTwo.h">
+      <Filter>src\游戏\玩家\玩家实例</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HolderPlayerInstance.h">
+      <Filter>src\游戏\玩家\玩家实例</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PokerController.h">
+      <Filter>src\游戏\扑克\扑克控制器</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Poker.h">
+      <Filter>src\游戏\扑克</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PokerSprite.h">
+      <Filter>src\游戏\扑克\扑克精灵</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PokerUtil.h">
+      <Filter>src\功能</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CallLandlordState.h">
+      <Filter>src\游戏\状态\叫地主</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CallLandlordLayer.h">
+      <Filter>src\游戏\游戏场景\叫地主层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\OutPokerState.h">
+      <Filter>src\游戏\状态\出牌</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\OutPokers.h">
+      <Filter>src\游戏\扑克\出牌集合</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PokerSetType.h">
+      <Filter>src\游戏\扑克</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameRule.h">
+      <Filter>src\游戏\游戏规则</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CountDown.h">
+      <Filter>src\游戏\计时器</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CountDownController.h">
+      <Filter>src\游戏\计时器\计时控制器</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\OverState.h">
+      <Filter>src\游戏\状态\结束</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\OverLayer.h">
+      <Filter>src\游戏\游戏场景\游戏结束层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WindowUtil.h">
+      <Filter>src\功能</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\cocos2d\cocos\ui\proj.win32\libui.vcxproj" />
+  </ItemGroup>
+</Project>
